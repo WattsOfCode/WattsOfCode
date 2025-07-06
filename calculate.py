@@ -1,6 +1,6 @@
 # this will be a simple python program
 # function simple calculation
-# Author: john deardorff
+# Author: john deardorff / WattsOfCode
 # Start Date: 07/03/2025
 # 
 # create function for each computation type subtract, add, multiply, divide
