@@ -32,7 +32,7 @@ Feel free to reach out if you have an interesting idea or project!
 - My thoughts on AI and its possibilities
 
 ## 📫 Get in Touch
-- **Direct Message**: Ping me on GitHub or LinkedIn(https://www.linkedin.com/in/john-deardorff-940a70a4/)
+- **Direct Message**: Ping me on GitHub or [https://www.linkedin.com/in/john-deardorff-940a70a4/](LinkedIn)
 
 ## ⚡ Fun Facts
 - **Skydiving Adventure**: I’ve jumped out of a plane and parachuted to the ground. I can now say i have more take offs than landings on a plane.
