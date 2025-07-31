@@ -16,9 +16,8 @@ I'm currently exploring:
 I'm excited to collaborate on projects involving:
 - **Java**
 - **Python**
+- **C**
 - **AI-driven solutions**
-
-Feel free to reach out if you have an interesting idea or project!
 
 ## 🤔 Looking for Help?
   I'm currently studying **Security Principles** and **Cloud Solutions**, and I have solid experience with **Python**, 
