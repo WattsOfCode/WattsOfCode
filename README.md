@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate coder diving into exciting projects and constantly learning new tech. Here's a bit about what I'm up to:
 
 ## 🔭 Current Projects
-- **TextRPG**: Building an immersive text-based role-playing game.
+- **DMScreen**: A free range TTRPG Dm Screen [version 1 expected Dec, 2025] 
 - **Calculator**: Crafting a sleek and functional calculator application.
 
 ## 🌱 Learning Journey
