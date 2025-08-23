@@ -1,0 +1,74 @@
+'''
+john deardorff
+
+application to extract data from pdfs
+'''
+import tkinter as tk
+from tkinter import filedialog
+from PyPDF2 import PdfReader, PdfWriter
+
+# hiding root window
+root = tk.Tk()
+root.withdraw()
+
+# class purpose to extract user selected pdf and print
+class PdfMasterPull:
+
+    # constructor to hide tk root window
+    def __init__(self):
+        self.root = tk.Tk()
+        self.root.withdraw()
+    
+    # this function will take user input from file explorer and return reader and file path
+    def pdf_puller(self):
+        file_path = filedialog.askopenfilename(
+            title="Select a PDF file",
+            filetypes=[("PDF Files", "*.pdf")]
+        )
+        # pdf must be selected otherwise the file explorer will not be able
+        # to use the open button
+        if file_path:
+            try:
+                reader = PdfReader(file_path)
+                return reader, file_path
+            except Exception as e:
+                print(f"Error reading PDF: {e}")
+                return None, None
+        else:
+            print("No file Selected.")
+            return None, None
+    
+    def pdf_word_search(self, reader, search_word):
+        if not reader:
+            print("PDF reader is not valid.")
+            return
+
+        found = False
+
+        for page_number, page in enumerate(reader.pages):
+            text = page.extract_text()
+            if not text:
+                continue
+        
+            if search_word.lower() in text.lower():
+                index = text.lower().find(search_word.lower())
+                extracted_text = text[index:]
+
+                print(f"\n Found on page {page_number + 1}:\n")
+                print(extracted_text)
+                found = True
+                break
+
+        if not found:
+            print(f"The word '{search_word}' was not found in PDF.")              
+        
+
+if __name__ == "__main__":
+    extractor = PdfMasterPull()
+
+    # keep the calls in order
+    reader, path = extractor.pdf_puller()
+    
+    if reader:
+        user_word = input("Enter key word: ")
+        extractor.pdf_word_search(reader, user_word)
