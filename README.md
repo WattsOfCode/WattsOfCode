@@ -1,4 +1,4 @@
-## Hi there, I'm WattsOfCode! 👋
+## Hi there, I'm WattsOfCode also known as John! 👋
 
 Welcome to my GitHub profile! I'm a passionate coder diving into exciting projects and constantly learning new tech. Here's a bit about what I'm up to:
 
