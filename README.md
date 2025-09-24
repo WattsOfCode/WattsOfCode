@@ -5,6 +5,7 @@ Welcome to my GitHub profile! I'm a passionate coder diving into exciting projec
 ## 🔭 Current Projects
 - **DMScreen**: A free range TTRPG Dm Screen [version 1 expected Dec, 2025] 
 - **Calculator**: Crafting a sleek and functional calculator application.
+- **Secret Project**: Game Engin Project with Adventure in mind [expected: 2027]
 
 ## 🌱 Learning Journey
 I'm currently exploring:
@@ -17,6 +18,7 @@ I'm excited to collaborate on projects involving:
 - **Java**
 - **Python**
 - **C**
+- **Unity**
 - **AI-driven solutions**
 
 ## 🤔 Looking for Help?
@@ -26,8 +28,8 @@ I'm excited to collaborate on projects involving:
   ideas together.
 
 ## 💬 Ask Me About
-- My projects (TextRPG or Calculator)
-- Tips for getting started with Java or Python
+- My projects (DMScreen, Calculator, or the Secret Project)
+- Tips for getting started with Java, Python, web or game design
 - My thoughts on AI and its possibilities
 
 ## 📫 Get in Touch
@@ -38,6 +40,7 @@ I'm excited to collaborate on projects involving:
 - **Fantasy Fanatic**: I’m obsessed with fantasy stories, from epic novels to immersive RPG worlds.
 - **Tech Geek**: I live for tech—space exploration, cutting-edge computers, and mind-blowing facts are my jam.
 - **Dad Humor (Minus the Laughs)**: I’ve got a knack for dad-level humor, but don’t expect a punchline—just awkward charm!
+- **Nervous**
 
 ---
 
