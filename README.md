@@ -3,15 +3,15 @@
 Welcome to my GitHub profile! I'm a passionate coder diving into exciting projects and constantly learning new tech. Here's a bit about what I'm up to:
 
 ## 🔭 Current Projects
-- **DMScreen**: A free range TTRPG Dm Screen [version 1 expected Dec, 2025] 
-- **Calculator**: Crafting a sleek and functional calculator application.
+- **BookNook**: A personal book catalog by scanning ISBN barcodes or searching manually.
 - **Secret Project**: Game Engin Project with Adventure in mind [expected: 2027]
 
 ## 🌱 Learning Journey
 I'm currently exploring:
-- **Security Principles**: Strengthening my knowledge of secure coding practices.
-- **Cloud Solutions**: Diving into scalable and efficient cloud technologies.
-- **AI and Machine Learning**: Experimenting with intelligent systems and algorithms.
+- **Mobile Application** 
+- **Security Principles** 
+- **Cloud Solutions**
+- **AI and Machine Learning**
 
 ## 👯 Collaboration Opportunities
 I'm excited to collaborate on projects involving:
@@ -20,15 +20,16 @@ I'm excited to collaborate on projects involving:
 - **C**
 - **Unity**
 - **AI-driven solutions**
+- **And Much More**
 
 ## 🤔 Looking for Help?
-  I'm currently studying **Security Principles** and **Cloud Solutions**, and I have solid experience with **Python**, 
-  **Java**, and **C**. If you're working on projects in these areas or need assistance with coding, debugging, or understanding 
+  I'm currently studying **Physics** after working in **Mobile applications**. Solid grasp with **Python** and **Java** based launguages, 
+   and **C#**. If you're working on projects in these areas or need assistance with coding, debugging, or understanding 
   concepts in these languages or technologies, I'm happy to lend a hand! Reach out if you need support or want to brainstorm 
   ideas together.
 
 ## 💬 Ask Me About
-- My projects (DMScreen, Calculator, or the Secret Project)
+- My projects (BookNook, DMScreen, or the Secret Project)
 - Tips for getting started with Java, Python, web or game design
 - My thoughts on AI and its possibilities
 
