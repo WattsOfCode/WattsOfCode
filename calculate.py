@@ -1,10 +1,11 @@
 # this will be a simple python program
 # function simple calculation
 # Author: john deardorff / WattsOfCode
-# Start Date: 07/03/2025
+# Date: 07/03/2025
 # 
+# Open within IDE to play/use
 # create function for each computation type subtract, add, multiply, divide
-# additional features added on 07/5/2025 [Squaring and Squar roots]
+#        features [Squaring and Squar roots] 
 
 # imports
 import math
