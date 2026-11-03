@@ -17,7 +17,7 @@ I'm currently exploring:
 I'm excited to collaborate on projects involving:
 - **Java**
 - **Python**
-- **C**
+- **C#**
 - **Unity**
 - **AI-driven solutions**
 - **And Much More**
