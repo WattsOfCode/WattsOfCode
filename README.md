@@ -45,8 +45,5 @@ I'm excited to collaborate on projects involving:
 
 ---
 
-One last update for this page. It is my personal intention to convert this repo into a personal portfolio site to make it more interactive to users. 
-So in short by no later than the end of Febuary of 2026 this section will be likely replaced. thank you for your support an I hope you enjoy the new 
-up coming changes.
 
-Thanks for stopping by! Code to the Stars! 🚀
+Thanks for stopping by! 
