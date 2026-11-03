@@ -40,7 +40,7 @@ I'm excited to collaborate on projects involving:
 - **Skydiving Adventure**: I’ve jumped out of a plane and parachuted to the ground. I can now say i have more take offs than landings on a plane.
 - **Fantasy Fanatic**: I’m obsessed with fantasy stories, from epic novels to immersive RPG worlds.
 - **Tech Geek**: I live for tech—space exploration, cutting-edge computers, and mind-blowing facts are my jam.
-- **Dad Humor (Minus the Laughs)**: I’ve got a knack for dad-level humor, but don’t expect a punchline—just awkward charm!
+- **Dad Humor (Minus the Laughs)**: I’ve got a knack for dad-level humor.
 - **Nervous**
 
 ---
