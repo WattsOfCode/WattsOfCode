@@ -3,7 +3,7 @@
 Coder studying Physics after a stint in mobile development. I like building things, learning new tech and helping others get unstuck.
 
 ### 🔭 Projects
-- **[Santa Shift](https://github.com/WattsOfCode/Santa-Shift)**: a 3D Christmas workshop game for GitHub Game Off 2026. You make the toys, Santa takes the credit. *(C#, Raylib)*
+- **[Santa Shift](https://github.com/WattsOfCode/Santa-Shift)**: a 3D Christmas workshop [game](https://wattsofcode.itch.io/the-santa-shift) for GitHub Game Off 2026. You make the toys, Santa takes the credit. *(C#, Raylib)*
 - **BookNook**: a personal book catalog. Scan an ISBN barcode or search by hand.
 - **Secret project**: an adventure game engine *(coming 2027)*
 
